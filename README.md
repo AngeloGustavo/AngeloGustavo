@@ -2,7 +2,7 @@
 
 ### About me 
 - 🔭 I'm an IT Intern at [TRT](https://www.trt21.jus.br/).
-- 📝 I'm part of a project at UFRN with Flutter <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a>development.
+- 📝 I'm part of a project with Flutter <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a>development at UFRN.
 - 🤯 I'm learning Django.
 - 🎓 I'm currently studying a bachelor's degree in Information Technology at [IMD](https://www.imd.ufrn.br/portal/) - [UFRN](https://www.ufrn.br/).
 
