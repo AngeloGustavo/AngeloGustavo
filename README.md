@@ -1,10 +1,9 @@
 # Hi 👋, I'm Angelo Sales
 
 ### About me 
-- 🔭 I'm an IT Intern at [TRT](https://www.trt21.jus.br/).
-- 📝 I'm part of a project with Flutter <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> </a>development at UFRN.
-- 🤯 I'm learning Django.
-- 🎓 I'm currently studying a bachelor's degree in Information Technology at [IMD](https://www.imd.ufrn.br/portal/) - [UFRN](https://www.ufrn.br/).
+- 🔭 I'm currently interning at [TRT](https://www.trt21.jus.br/).
+- 📝 I'm involved as a Flutter <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> </a> front-end developer in a project at [UFRN](https://www.ufrn.br/).<!-- - 🤯 I'm learning Django. -->
+- 🎓 I'm currently studying Information Technology at [IMD](https://www.imd.ufrn.br/portal/) - [UFRN](https://www.ufrn.br/) for my Bachelor's degree.
 - 🌎 I'm fluent in English <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/us.png" alt="flutter" width="15" height="15"/> and I'm learning French <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/fr.png" alt="flutter" width="15" height="15"/>.
 
 ### Languages
